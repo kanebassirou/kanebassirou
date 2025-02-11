@@ -62,4 +62,7 @@
 🐙 **GitHub** : [kanebassirou](https://github.com/kanebassirou)  
 🌍 **Portfolio** : [Mon site web](https://kanebassirou.github.io/Portfolio/#/)  
 
+![Visiteurs](https://komarev.com/ghpvc/?username=kanebassirou&label=Visiteurs&color=blue&style=flat)
+
+
 💡 *Toujours curieux d’apprendre et d’innover !* 🚀  
