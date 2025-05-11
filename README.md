@@ -19,7 +19,7 @@
 
 - 🎓 **Master 1 en Génie Logiciel** – Université Iba Der Thiam de Thiès
 - 🔥 Expert en **développement Full Stack** avec Laravel, Angular, Java et Spring Boot
-- ☁️ Compétences en **Cloud & DevOps** – Docker, CI/CD, AWS
+- ☁️ Compétences en **Cloud & DevOps** –  CI/CD, AWS
 
 ## 🛠️ Stack Technique
 
@@ -55,7 +55,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 </div>
 
@@ -100,8 +100,8 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanebassirou&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanebassirou&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanebassirou&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanebassirou&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
