@@ -98,9 +98,8 @@
 </div>
 
 ## 📊 Statistiques GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanebassirou&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanebassirou&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
