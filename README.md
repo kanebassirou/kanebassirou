@@ -75,8 +75,8 @@
     </td>
     <td align="center">
       <a href="https://github.com/kanebassirou">
-        <img src="https://img.shields.io/badge/🛒-e--commerce-green?style=for-the-badge" alt="E-commerce"/><br />
-        <b>Plateforme E-commerce</b>
+        <img src="https://img.shields.io/badge/ERP GESTION MARINE-green?style=for-the-badge" alt="E-commerce"/><br />
+        <b> ERP_MarineAgency </b>
       </a>
       <br />
       <sub>Laravel, Bootstrap, MySQL</sub>
