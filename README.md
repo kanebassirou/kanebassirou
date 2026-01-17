@@ -15,11 +15,11 @@
 
 ## ✨ À propos
 
-> Développeur Full Stack passionné par l'innovation technologique, spécialisé dans la création d'applications web modernes et l'intégration des solutions cloud.
+> Développeur Full Stack passionné par l'innovation technologique, spécialisé dans la création d'applications web modernes .
 
 - 🎓 **Master 1 en Génie Logiciel** – Université Iba Der Thiam de Thiès
 - 🔥 Expert en **développement Full Stack** avec Laravel, Angular, Java et Spring Boot
-- ☁️ Compétences en **Cloud & DevOps** –  CI/CD, AWS
+- ☁️ Compétences en **Cloud & DevOps** –  CI/CD
 
 ## 🛠️ Stack Technique
 
